@@ -10,7 +10,7 @@ class TopMenu extends Component {
                         <img src={logo} />
                     </Menu.Item>
                     <Menu.Item as='a' href='#'>Акции</Menu.Item>
-                    <Menu.Item as='a'>Каталог</Menu.Item>
+                    <Menu.Item as='a' href='/catalog'>Каталог</Menu.Item>
                     <Menu.Item as='a' href='/delivery'>Доставка</Menu.Item>
                     <Menu.Item as='a' href='/payments'>Оплата</Menu.Item>
                     <Menu.Item as='a' href="/about">О нас</Menu.Item>
